@@ -17,7 +17,7 @@ function ComponentTwo() {
 
   return (
     <>
-      <p>I am from Component Two</p>
+      <p>The counter is {count}</p>
       <div className="card">
         <input
           type='number'
